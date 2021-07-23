@@ -1,6 +1,6 @@
 # SMS-mobile-app
-*This is an android mobile app which is used for sending sms by giving their mobile number.
+1. This is an android mobile app which is used for sending sms by giving their mobile number.
 
-*Language used-java
+2. Language used-java
 
-*platform-Android studios
+3. Platform-Android studios
